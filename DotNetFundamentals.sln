@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C36411E2-2039-405B-9645-39742439EBCC}"
+	ProjectSection(SolutionItems) = preProject
+		0.01_HelloWorld.html = 0.01_HelloWorld.html
+		0.02_hp_tags.html = 0.02_hp_tags.html
+		0.03_lists.html = 0.03_lists.html
+		0.04_links.html = 0.04_links.html
+		0.05_images.html = 0.05_images.html
+		0.06_tables.html = 0.06_tables.html
+		0.07_divs.html = 0.07_divs.html
+		0.08_input.html = 0.08_input.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{9683C4C3-E929-4613-B555-4EEA04112834}"
+	ProjectSection(SolutionItems) = preProject
+		img\011409_robotsanddonuts03.jpg = img\011409_robotsanddonuts03.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9683C4C3-E929-4613-B555-4EEA04112834} = {C36411E2-2039-405B-9645-39742439EBCC}
+	EndGlobalSection
+EndGlobal
