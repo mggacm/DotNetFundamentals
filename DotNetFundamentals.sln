@@ -13,6 +13,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		0.06_tables.html = 0.06_tables.html
 		0.07_divs.html = 0.07_divs.html
 		0.08_input.html = 0.08_input.html
+		0.09_forms.html = 0.09_forms.html
+		0.10_sections.html = 0.10_sections.html
+		0.11.html = 0.11.html
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{9683C4C3-E929-4613-B555-4EEA04112834}"
